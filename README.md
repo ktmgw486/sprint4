@@ -1,6 +1,6 @@
 ### 인증
 - [X] User 스키마를 작성해 주세요.
-  - [X]id, email, nickname, image, password, createdAt, updatedAt 필드를 가집니다.
+  - [X] id, email, nickname, image, password, createdAt, updatedAt 필드를 가집니다.
 - [X] 회원가입 API를 만들어 주세요. (완료)
     - [X] email, nickname, password 를 입력하여 회원가입을 진행합니다.
     - [X] password는 해싱해 저장합니다.
